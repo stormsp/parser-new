@@ -1,0 +1,57 @@
+[[Algorithm.Params]]
+Raper = "ПОЖАР ОДО КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КОМ АВОСТ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "ДАТА АО КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КРАН ВХОД КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "РЕЖ ОДОР КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КР СВ НИЗ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КР СВНИЗ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "ПОЖАР ПЕР КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КН АВОСТ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КРАН ОХР КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КР БАЙП КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КРАН ВЫХ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "ПГ УПР КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КР СВ ВЫС КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "ПОЖАР ОПЕ КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "ДАТА ЗАО КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "КОМ РЕЖ3"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "РЕЖИМ ГРС КУШН"
+TypeParam = "IN"
+[[Algorithm.Params]]
+Raper = "РВЫХ123АВ КУШН"
+TypeParam = "IN"
