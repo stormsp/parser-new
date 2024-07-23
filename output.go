@@ -25,7 +25,7 @@ type Rep struct {
 	TimeOld     time.Time
 	Time        time.Time
 }
-
+//pens
 type OutToRabbitMQ struct {
 	MEK_Address int
 	Raper       string
